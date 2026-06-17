@@ -1,0 +1,10 @@
+Bekele Debebe,Architecture,3.77,1
+Sarah Mohammed,Civil Engineering,3.2,2
+Yoseph Gemechis,Business,3.6,3
+Samuel Hailemariam,Agriculture,2.9,5
+Rediet Mekonnen,History,3.77,6
+Michael Asefa,Political Science,3.45,9
+Samrawit Alemu,Nursing,3.89,10
+Amanuel Abel,Mechanical Engineering,3.78,4
+Surafel Shimelis,Law,3.99,12
+Nathnael Nega,Software Engineering,4.0,23
